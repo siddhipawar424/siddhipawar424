@@ -1,4 +1,4 @@
-![logo](https://github.com/siddhipawar424/siddhipawar424/blob/main/Github_Banner.png)
+![Banner](Github_Banner.png)
 
 <h1 align="center">Hi 👋, I'm Siddhi Pawar</h1>
 <h3 align="center">A Full Stack Developer and UI/UX Designer from India</h3>
