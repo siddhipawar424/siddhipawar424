@@ -2,7 +2,7 @@
 - 🚀 Passionate AI & Full Stack Developer building real-world products    <br>- 🎯 Focused on creating clean, responsive, and user-friendly UI/UX  <br>- ⚡ Skilled in **Agentic AI, Gen-AI, MAS, RAG, Databases, Python, Java, Next.js, React, JavaScript, TypeScript, Tailwind CSS, Vanilla CSS**  <br>- 🧠 Exploring AGI, backend development and system design  <br>- 🔧 Love turning ideas into scalable digital solutions  <br>- 📈 Always learning, building, and improving  
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddhipawar_44) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhi-pawar-25a228340) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddhipawar249@gmail.com) 
 
 # 💻 Tech Stack:
@@ -13,12 +13,7 @@
 ![](https://streak-stats.demolab.com/?user=siddhipawar424&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=siddhipawar424&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=siddhipawar424&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 ---
 [![](https://komarev.com/ghpvc/?username=siddhipawar424&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
