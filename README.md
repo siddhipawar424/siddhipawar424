@@ -1,10 +1,13 @@
 <h3 align="center">🚀 AI Explorer & Full Stack Developer | Building Real-World Products</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddhipawar424&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img 
+    src="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1600&q=80"
+    width="100%"
+    height="260px"
+    style="object-fit: cover; border-radius: 15px;"
+  />
 </p>
-
----
 
 ## 💫 About Me
 - 🚀 Building **AI-powered & scalable web applications**
