@@ -31,20 +31,43 @@
 ## ⚙️ Tech Stack
 
 ### 🚀 Languages
-![JavaScript](https://img.shields.io/badge/javascript-black?logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-black?logo=typescript)
-![Python](https://img.shields.io/badge/python-black?logo=python)
-![Java](https://img.shields.io/badge/java-black?logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E34A86?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/react-black?logo=react)
-![Next JS](https://img.shields.io/badge/next.js-black?logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/tailwind-black?logo=tailwind-css)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend & DB
-![NodeJS](https://img.shields.io/badge/node.js-black?logo=node.js)
-![MongoDB](https://img.shields.io/badge/mongodb-black?logo=mongodb)
-![Postgres](https://img.shields.io/badge/postgres-black?logo=postgresql)
+---
+
+### ⚙️ Backend & Database
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 🧠 AI / GenAI Stack
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=for-the-badge)
+![Gen AI](https://img.shields.io/badge/Gen%20AI-FF6F61?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF9800?style=for-the-badge)
+![MAS](https://img.shields.io/badge/Multi--Agent%20Systems-00C853?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4081?style=for-the-badge)
+![Agno](https://img.shields.io/badge/Agno-00BCD4?style=for-the-badge)
+
+---
+
+### ☁️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
 
 ---
 
