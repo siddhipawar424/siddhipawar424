@@ -102,17 +102,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=siddhipawar424&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true"/>
 </p>
 
-<!-- 🔥 NEW CUSTOM ANIMATED LANGUAGE BARS -->
-## 🧠 Tech Intensity
-
-<p align="center">
-<img src="https://progress-bar.dev/85/?title=JavaScript&width=500&color=F7DF1E"/>
-<img src="https://progress-bar.dev/75/?title=TypeScript&width=500&color=3178C6"/>
-<img src="https://progress-bar.dev/70/?title=Python&width=500&color=3776AB"/>
-<img src="https://progress-bar.dev/65/?title=Java&width=500&color=E34A86"/>
-<img src="https://progress-bar.dev/80/?title=HTML%20%26%20CSS&width=500&color=E34F26"/>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 📈 Contribution Graph
