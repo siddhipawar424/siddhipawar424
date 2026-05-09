@@ -1,7 +1,7 @@
 <h3 align="center">🚀 AI Explorer & Full Stack Developer | Building Real-World Products</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=I+Build+AI+That+Solves+Real+Problems;Full+Stack+Engineer;Shipping+Scalable+Products;Exploring+Agentic+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=I+Build+AI+That+Solves+Real+Problems;Full+Stack+AI+Engineer;Shipping+Scalable+Products;Exploring+Agentic+AI" />
 </p>
 
 <p align="center">
