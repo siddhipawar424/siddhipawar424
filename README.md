@@ -1,4 +1,4 @@
-<h3 align="center">🚀 AI Explorer & Full Stack Developer | Building Real-World Products</h3>
+<h3 align="center"> AI Explorer & Full Stack Developer | Building Real-World Products</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=I+Build+AI+That+Solves+Real+Problems;Full+Stack+AI+Engineer;Shipping+Scalable+Products;Exploring+Agentic+AI" />
@@ -29,7 +29,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-## 🌐 Connect With Me
+## Connect With Me
 <p align="left">
 <a href="https://instagram.com/siddhipawar_44"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/siddhi-pawar-25a228340"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
@@ -38,9 +38,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-## ⚙️ Tech Stack
+## Tech Stack
 
-### 🧩 Programming Languages
+### Programming Languages
 <p>
 <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -52,7 +52,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-### 🎨 Frontend
+### Frontend
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -63,7 +63,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -72,7 +72,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-### 🗄️ Databases & BaaS
+### Databases & BaaS
 <p>
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -83,7 +83,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siddhipawar424&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
@@ -104,21 +104,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-## 📈 Contribution Graph
+## Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhipawar424&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-## ✨ What I'm Building
+## What I'm Building
 🔹 AI-powered platforms  
 🔹 Multi-agent intelligent systems  
 🔹 Scalable full-stack apps  
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-## 💭 Dev Quote
+## Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
