@@ -5,27 +5,18 @@
 </p>
 
 <p align="center">
-  <img 
-    src="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1600&q=80"
-    width="100%"
-    height="260px"
-    style="object-fit: cover; border-radius: 15px;"
-  />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=siddhipawar424&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-## 🧑‍💻 About Me
+## About Me
 🔹 Building **AI-powered & scalable web applications**  
 🔹 Focused on **clean UI/UX + real-world usability**  
-🔹 Working with **Agentic AI, GenAI, RAG, Multi-Agent Systems**  
+🔹 Working with **Agentic AI, GenAI, RAG, LLMs, Multi-Agent Systems**  
 🔹 Strong in **Full Stack Development**  
 🔹 Turning ideas into **production-ready products**  
-🔹 Exploring **System Design & Advanced AI**
+🔹 Exploring **System Design & Agentic AI**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
