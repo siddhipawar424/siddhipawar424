@@ -1,115 +1,101 @@
-<h3 align="center"> AI Explorer & Full Stack Developer | Building Real-World Products</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=I+Build+AI+That+Solves+Real+Problems;Full+Stack+AI+Engineer;Shipping+Scalable+Products;Exploring+Agentic+AI" />
-</p>
+# Hi, I'm Siddhi Pawar 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddhipawar424&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
+**Software Engineer · Agentic AI Systems · Full-Stack Development**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+*Building production-grade AI applications that solve real problems*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhi-pawar-25a228340)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/siddhipawar424/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:siddhipawar249@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](#)
+
+📍 Pune, India &nbsp;|&nbsp; 🎯 Open to SDE / AI Engineer roles
+
+</div>
+
+---
 
 ## About Me
-🔹 Building **AI-powered & scalable web applications**  
-🔹 Focused on **clean UI/UX + real-world usability**  
-🔹 Working with **Agentic AI, GenAI, RAG, LLMs, Multi-Agent Systems**  
-🔹 Strong in **Full Stack Development**  
-🔹 Turning ideas into **production-ready products**  
-🔹 Exploring **System Design & Agentic AI**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+I'm a software engineer specializing in **Agentic AI systems** and **scalable full-stack applications**. I build LLM-powered products that go beyond chatbots - multi-agent orchestration pipelines, production RAG systems, and real-time collaborative tools.
 
-## Connect With Me
-<p align="left">
-<a href="https://instagram.com/siddhipawar_44"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/siddhi-pawar-25a228340"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-<a href="mailto:siddhipawar249@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
-</p>
+I focus on engineering quality: clean architecture, measurable performance, and systems that actually handle scale.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+**Currently working on:**
+- Multi-agent task orchestration using LangGraph + AGNO AI
+- Production RAG pipelines with sub-200ms retrieval
+- Distributed real-time systems in TypeScript
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack | Link |
+|--------|------------|-------|------|
+| **[Multiplayer Neon Hunt](https://github.com/siddhipawar424/multiplayer-neon-hunt)** | Real-time browser game - 50+ concurrent players, sub-50ms latency | TypeScript · WebSocket · Node.js | [Play →](#) |
+| **[AgentOS](#)** *(coming soon)* | Multi-agent task orchestrator with persistent memory & tool-calling | LangGraph · FastAPI · React | [Demo →](#) |
+| **[RAGForge](#)** *(coming soon)* | Production RAG pipeline - 10k+ doc corpus, hybrid search | Python · Pinecone · OpenAI | [Demo →](#) |
+| **[DistributedKV](#)** *(coming soon)* | Distributed key-value store with consistent hashing + replication | Java · gRPC · Docker | [Docs →](#) |
+
+---
 
 ## Tech Stack
 
-### Programming Languages
-<p>
-<img src="https://img.shields.io/badge/JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-E34A86?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+**Languages**
+`Python` `Java` `TypeScript` `JavaScript`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+**AI / ML**
+`LangChain` `LangGraph` `AGNO AI` `RAG` `OpenAI API` `Vector Databases`
 
-### Frontend
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge"/>
-</p>
+**Frontend**
+`React` `Next.js` `Tailwind CSS` `shadcn/ui`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+**Backend & APIs**
+`FastAPI` `Node.js` `REST APIs` `WebSockets` `gRPC`
 
-### Backend & APIs
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-FF6F61?style=for-the-badge"/>
-</p>
+**Databases**
+`PostgreSQL` `MongoDB` `Supabase` `Firebase` `Pinecone`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+**DevOps & Tools**
+`Git` `Docker` `GitHub Actions` `Vercel` `Railway`
 
-### Databases & BaaS
-<p>
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</p>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+## GitHub Stats
 
-## GitHub Analytics
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddhipawar424&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=siddhipawar424&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhipawar424&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" />
-</p>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=siddhipawar424&show_icons=true&theme=default&count_private=true&hide_border=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhipawar424&layout=compact&theme=default&hide_border=true&langs_count=6" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddhipawar424&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddhipawar424&theme=tokyonight"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siddhipawar424&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true"/>
-</p>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+## What I'm Building Toward
 
-## Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhipawar424&theme=tokyo-night&hide_border=true"/>
-</p>
+I'm actively strengthening my skills in:
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+- **System Design** - distributed systems, CAP theorem, scalability patterns
+- **Agentic AI** - multi-agent coordination, memory architectures, tool-augmented LLMs  
+- **Backend Engineering** - high-throughput APIs, caching strategies, database optimization
 
-## What I'm Building
-🔹 AI-powered platforms  
-🔹 Multi-agent intelligent systems  
-🔹 Scalable full-stack apps  
+My goal: join an engineering team where I can build AI infrastructure that ships to millions of users.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+---
 
-## Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+## Let's Connect
+
+I'm always open to discussing interesting engineering problems, collaboration on open source, or new opportunities.
+
+- 💼 [LinkedIn](https://linkedin.com/in/siddhi-pawar-25a228340)
+- 🧩 [LeetCode](https://leetcode.com/u/siddhipawar424/)
+- 📧 [siddhipawar249@gmail.com](mailto:siddhipawar249@gmail.com)
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=siddhipawar424&color=blue&style=flat&label=Profile+Views" />
+</div>
