@@ -44,7 +44,6 @@ I care about writing code that's **correct, maintainable, and built for scale** 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
 
 ---
 
@@ -52,11 +51,9 @@ I care about writing code that's **correct, maintainable, and built for scale** 
 
 | Project | Description | Tech |
 |---|---|---|
-| [**DSA_2026**](https://github.com/siddhipawar424/DSA_2026) | 30-Day DSA bootcamp — daily problem-solving with optimized solutions | Java |
-| [**100-days-100-codes**](https://github.com/siddhipawar424/100-days-100-codes) | 100-day consistency challenge solving core CS/DSA problems | Java |
-| [**multiplayer-neon-hunt**](https://github.com/siddhipawar424/multiplayer-neon-hunt) | Real-time multiplayer web game with live state sync | TypeScript |
-| [**nimbus-weather-app**](https://github.com/siddhipawar424/nimbus-weather-app) | Weather app with clean, responsive UI | CSS |
-| [**XRate-Currency-Converter**](https://github.com/siddhipawar424/XRate-Currency-Converter) | Real-time currency conversion tool | HTML |
+| [**ShopFloorAI**](https://github.com/siddhipawar424/ShopFloorAI) | AI-powered multi-agent system for smart manufacturing — hierarchical agents (Observer → Predict & Plan → Mentor) analyze CNC/OEE data, Six Sigma metrics, and cycle times via RAG + AI-generated SQL | Python, Agno, Gemini, Next.js, PostgreSQL |
+| [**FixyGo**](https://github.com/siddhipawar424/FixyGo) | On-demand service booking platform connecting users with local plumbers and household repair professionals to resolve everyday home maintenance issues | Full Stack |
+| [**multiplayer-neon-hunt**](https://github.com/siddhipawar424/multiplayer-neon-hunt) | Real-time multiplayer cyberpunk arena game with server-authoritative gameplay, room-based matchmaking, live leaderboard, and Socket.io-powered low-latency sync | Next.js, TypeScript, Socket.io |
 
 ---
 
@@ -91,5 +88,6 @@ I care about writing code that's **correct, maintainable, and built for scale** 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/siddhi-pawar-25a228340/">LinkedIn</a> •
+  <a href="https://leetcode.com/u/siddhipawar424/">LeetCode</a> •
   <a href="mailto:siddhipawar249@gmail.com">Email</a>
 </p>
