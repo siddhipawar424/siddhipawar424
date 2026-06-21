@@ -1,101 +1,95 @@
-<div align="center">
+<h1 align="center">Hi, I'm Siddhi Pawar 👋</h1>
+<h3 align="center">Software Engineer • Agentic AI & GenAI • Full Stack Developer</h3>
 
-# Hi, I'm Siddhi Pawar 👋
-
-**Software Engineer · Agentic AI Systems · Full-Stack Development**
-
-*Building production-grade AI applications that solve real problems*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhi-pawar-25a228340)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/siddhipawar424/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:siddhipawar249@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](#)
-
-📍 Pune, India &nbsp;|&nbsp; 🎯 Open to SDE / AI Engineer roles
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/siddhi-pawar-25a228340/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/siddhipawar424/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:siddhipawar249@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## About Me
+### About Me
 
-I'm a software engineer specializing in **Agentic AI systems** and **scalable full-stack applications**. I build LLM-powered products that go beyond chatbots - multi-agent orchestration pipelines, production RAG systems, and real-time collaborative tools.
+I'm a software engineer based in Pune, India, focused on building **production-grade AI systems** and **scalable full-stack applications**. My current interests sit at the intersection of:
 
-I focus on engineering quality: clean architecture, measurable performance, and systems that actually handle scale.
+- **Agentic AI & Multi-Agent Systems (MAS)** — designing autonomous, tool-using agents
+- **GenAI / RAG / LLM pipelines** — using LangChain, LangGraph, and AGNO AI
+- **Full Stack Engineering** — shipping clean, user-centric products end to end
+- **DSA & Systems Thinking** — strong fundamentals in Java and problem solving
 
-**Currently working on:**
-- Multi-agent task orchestration using LangGraph + AGNO AI
-- Production RAG pipelines with sub-200ms retrieval
-- Distributed real-time systems in TypeScript
-
----
-
-## Featured Projects
-
-| Project | Description | Stack | Link |
-|--------|------------|-------|------|
-| **[Multiplayer Neon Hunt](https://github.com/siddhipawar424/multiplayer-neon-hunt)** | Real-time browser game - 50+ concurrent players, sub-50ms latency | TypeScript · WebSocket · Node.js | [Play →](#) |
-| **[AgentOS](#)** *(coming soon)* | Multi-agent task orchestrator with persistent memory & tool-calling | LangGraph · FastAPI · React | [Demo →](#) |
-| **[RAGForge](#)** *(coming soon)* | Production RAG pipeline - 10k+ doc corpus, hybrid search | Python · Pinecone · OpenAI | [Demo →](#) |
-| **[DistributedKV](#)** *(coming soon)* | Distributed key-value store with consistent hashing + replication | Java · gRPC · Docker | [Docs →](#) |
+I care about writing code that's **correct, maintainable, and built for scale** — not just code that works.
 
 ---
 
-## Tech Stack
+### Tech Stack
 
 **Languages**
-`Python` `Java` `TypeScript` `JavaScript`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**AI / ML**
-`LangChain` `LangGraph` `AGNO AI` `RAG` `OpenAI API` `Vector Databases`
+**AI / Agentic Stack**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![AGNO AI](https://img.shields.io/badge/AGNO_AI-6A0DAD?style=flat-square)
 
 **Frontend**
-`React` `Next.js` `Tailwind CSS` `shadcn/ui`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**Backend & APIs**
-`FastAPI` `Node.js` `REST APIs` `WebSockets` `gRPC`
-
-**Databases**
-`PostgreSQL` `MongoDB` `Supabase` `Firebase` `Pinecone`
-
-**DevOps & Tools**
-`Git` `Docker` `GitHub Actions` `Vercel` `Railway`
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=siddhipawar424&show_icons=true&theme=default&count_private=true&hide_border=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhipawar424&layout=compact&theme=default&hide_border=true&langs_count=6" />
-
-</div>
+**Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
 
 ---
 
-## What I'm Building Toward
+### Featured Projects
 
-I'm actively strengthening my skills in:
-
-- **System Design** - distributed systems, CAP theorem, scalability patterns
-- **Agentic AI** - multi-agent coordination, memory architectures, tool-augmented LLMs  
-- **Backend Engineering** - high-throughput APIs, caching strategies, database optimization
-
-My goal: join an engineering team where I can build AI infrastructure that ships to millions of users.
-
----
-
-## Let's Connect
-
-I'm always open to discussing interesting engineering problems, collaboration on open source, or new opportunities.
-
-- 💼 [LinkedIn](https://linkedin.com/in/siddhi-pawar-25a228340)
-- 🧩 [LeetCode](https://leetcode.com/u/siddhipawar424/)
-- 📧 [siddhipawar249@gmail.com](mailto:siddhipawar249@gmail.com)
+| Project | Description | Tech |
+|---|---|---|
+| [**DSA_2026**](https://github.com/siddhipawar424/DSA_2026) | 30-Day DSA bootcamp — daily problem-solving with optimized solutions | Java |
+| [**100-days-100-codes**](https://github.com/siddhipawar424/100-days-100-codes) | 100-day consistency challenge solving core CS/DSA problems | Java |
+| [**multiplayer-neon-hunt**](https://github.com/siddhipawar424/multiplayer-neon-hunt) | Real-time multiplayer web game with live state sync | TypeScript |
+| [**nimbus-weather-app**](https://github.com/siddhipawar424/nimbus-weather-app) | Weather app with clean, responsive UI | CSS |
+| [**XRate-Currency-Converter**](https://github.com/siddhipawar424/XRate-Currency-Converter) | Real-time currency conversion tool | HTML |
 
 ---
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=siddhipawar424&color=blue&style=flat&label=Profile+Views" />
-</div>
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddhipawar424&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhipawar424&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=siddhipawar424&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhipawar424&theme=tokyo-night&hide_border=true" width="90%" />
+</p>
+
+---
+
+### Currently Focused On
+
+- Building agentic AI products that move beyond chatbots into real automated workflows
+- Deepening expertise in system design for scalable backend architecture
+- Sharpening DSA fundamentals through consistent daily practice
+
+---
+
+<p align="center">
+  <i>"Code is easy. Knowing what to build is hard."</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/siddhi-pawar-25a228340/">LinkedIn</a> •
+  <a href="mailto:siddhipawar249@gmail.com">Email</a>
+</p>
